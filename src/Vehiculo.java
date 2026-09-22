@@ -10,7 +10,7 @@ public class Vehiculo {
     }
 
     public String descripcion() {
-        return "Placa: " + this.placa + " | Tipo: " + this.tipo + " | Propietario: " + this.propietario;
+        return "Placa: " + placa + " | Tipo: " + tipo + " | Propietario: " + propietario;
     }
 
     public String getPlaca() {
